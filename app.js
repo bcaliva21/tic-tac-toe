@@ -4,6 +4,18 @@ const port = 8080;
 
 app.use(express.static('public'));
 
+
+
+
+
+
+
+
+
+
+
+
+
 app.listen(port, () => {
   console.log(`The magic is happening on port ${port}...`);
 })
