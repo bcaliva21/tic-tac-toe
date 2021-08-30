@@ -1,0 +1,24 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe game. Vanilla JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcaliva21/tic-tac-toe.git"
+  },
+  "author": "Bradley Caliva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcaliva21/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/bcaliva21/tic-tac-toe#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
